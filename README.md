@@ -128,4 +128,4 @@ For more detailed explanations about the concepts behind this project — includ
 You can read the full article on Medium:
 
 🔗 **Medium Article:**  
-[[Insert Your Medium Link Here](https://medium.com/@mfebkhamim/ant-colony-optimization-perilaku-semut-menemukan-jalur-terpendek-9023c840f403)]
+[[My Medium Article](https://medium.com/@mfebkhamim/ant-colony-optimization-perilaku-semut-menemukan-jalur-terpendek-9023c840f403)]
