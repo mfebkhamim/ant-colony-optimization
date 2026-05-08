@@ -114,3 +114,18 @@ Possible future enhancements include:
 - Travel-time optimization
 - Interactive route visualization
 - Dynamic parameter tuning
+
+----------------------------------------------------------------------------------------------------
+
+## 📖 Learn More
+
+For more detailed explanations about the concepts behind this project — including:
+
+- Ant Colony Optimization (ACO)
+- Pheromone update mechanism
+- Algorithm implementation in Python
+
+You can read the full article on Medium:
+
+🔗 **Medium Article:**  
+[[Insert Your Medium Link Here](https://medium.com/@mfebkhamim/ant-colony-optimization-perilaku-semut-menemukan-jalur-terpendek-9023c840f403)]
