@@ -1,6 +1,6 @@
 # Traveling Salesman Problem using Ant Colony Optimization 🐜
 
-> Optimization of the Traveling Salesman Problem (TSP) using the Ant Colony Optimization (ACO) algorithm with a case study of cities and regencies in East Java, Indonesia.
+> Optimization of the Traveling Salesman Problem (TSP) using the Ant Colony Optimization (ACO) algorithm with a case study of cities in East Java, Indonesia.
 
 The algorithm simulates the behavior of ants in finding the shortest path through pheromone communication and heuristic exploration.
 
